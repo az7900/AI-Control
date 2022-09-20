@@ -10,4 +10,4 @@
 #### 4. 내 취미생활은 : 게임, 운동
 
 
-!https://camo.githubusercontent.com/a123b2c6011765dd07b9b58e40599a0ba15336a9ddd082e85f704781c97baee2/687474703a2f2f6366696c65362e75662e746973746f72792e636f6d2f696d6167652f32343236453634363534334339423435333243374230](/path/to/img.jpg "")
+![Alt text](/https://search.naver.com/search.naver?where=image&sm=tab_jum&query=%EB%8F%84%EB%9D%BC%EC%97%90%EB%AA%BD#imgId=image_sas%3Ablog158367600%7C1%7C222768794205_615385055/img.jpg)
