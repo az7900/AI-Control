@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faz7900%2Fai-control&count_bg=%236B8E51&title_bg=%2345CCEB&icon=awesomelists.svg&icon_color=%23DB2D2D&title=Profile&edge_flat=true)](https://hits.seeyoufarm.com)
+
 # AI-Control
 
 #### 반가워요 소통해요
