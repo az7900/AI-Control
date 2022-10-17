@@ -1,18 +1,33 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faz7900%2Fai-control&count_bg=%236B8E51&title_bg=%2345CCEB&icon=awesomelists.svg&icon_color=%23DB2D2D&title=Profile&edge_flat=true)](https://hits.seeyoufarm.com)
+* * * * *
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faz7900%2Fai-control&count_bg=%236B8E51&title_bg=%2345CCEB&icon=awesomelists.svg&icon_color=%23DB2D2D&title=Today&edge_flat=true)](https://hits.seeyoufarm.com)
 
-# AI-Control
+<img src="https://img.shields.io/badge/My Favorites-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
-#### 반가워요 소통해요
+<img src="https://img.shields.io/badge/Fashion-E34F26?style=flat-square&logo=logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Movie-1572B6?style=flat-square&logo=&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Sports-F7DF1E?style=flat-square&logo=t&logoColor=white"/>
+<img src="https://img.shields.io/badge/Golf-339933?style=flat-square&logo=&logoColor=white"/></a>
+* * * * *
 
-       ● 나에 대한 소개
+## ( 🥇 Profile 🥇 )
+
+
      
-#### 1. 내 이름은 : 이승현 
-#### 2. 내 나이는 : 27살
-#### 3. 내은 : 교육
-#### 4. 내취미활동 :게임,운동
-#### 5. 현재 관심사 : 골프 배우기
+#### 1. Name : 이승현
+#### 2. Age : 27
+#### 3. Work : 대학생
 
-       ● 옷에 관심이 있는 사람들 댓글좀요
-       
-#### 코디 잘 하 는 사 람 많 이 가 르 쳐 주 세 요 ♥
+####  :mouse: I am :nose:
+###### 1996년 창원 토박이 출신 :boy:
+###### 반송초등학교, 반송중학교, 문성고등학교, 인제대학교(2년 중퇴), 창원폴리텍대학교(현재) :point_up:
+###### 워드프로세서3급, 2종운전면허, 3D프린트운용기능사 자격증 보유 :v:
+###### 스마트팩토리과 다니면서 부족함을 많이느끼지만 벼락치기를 너무 좋아하는 1인 :droplet:
+###### 목표 학점 4.0 이상 :o:, 자격증 2개이상 취득 :o:, 로또1등 :o:
+###### 쥐띠에 코가 큼 키도 큼 발도 큼 :open_mouth:
+
+
+* * * * *
 ![12345](https://user-images.githubusercontent.com/112447262/191141395-e503bc5e-236d-4449-813d-5425d43b6a8d.jpg)
+* * * * *
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=az7900&show_icons=true&theme=radical)
+* * * * *
